@@ -7,9 +7,11 @@ def add(a,b):
 
 
 
-def main():
-	x = int(sys.argv[1])
-	y = int(sys.argv[2])
-	print (add(x,y))
+arg=len(sys.argv)-1
+if (arg < 2):
+	print("Error occured")
 
-main()
+x = int(sys.argv[1])
+y = int(sys.argv[2])
+
+print(add(x,y))
