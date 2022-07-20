@@ -9,5 +9,5 @@
 **Avec 'ls' verifier si les fichiers sont présents**
 
 # Comment faire pour exécuter les codes
-Etape 1: chmod +x addTwoInt.py
-Etape 2: 
+- Etape 1: chmod +x addTwoInt.py
+- Etape 2: ./addTwoInt.py 
