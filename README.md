@@ -14,5 +14,11 @@ cd tp_git_pemba
 **Avec 'ls' verifier si les fichiers sont présents**
 
 # Comment faire pour exécuter les codes
-- Etape 1: chmod +x addTwoInt.py
-- Etape 2: ./addTwoInt.py 
+- Etape 1: (Donnez les droits au script)
+```sh
+chmod +x addTwoInt.py
+```
+- Etape 2: (Executez)
+```sh
+./addTwoInt.py 
+```
