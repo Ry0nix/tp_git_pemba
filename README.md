@@ -1,4 +1,4 @@
-# Comment se procurer le projet ?
+# Comment récuperer le projet ?
 - Etape 1: copier le lien du github, avec https au début.
 
 **N.B: le lien se trouve dans la section code, en haut à droite en vert.**
