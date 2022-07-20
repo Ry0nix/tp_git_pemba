@@ -20,5 +20,5 @@ chmod +x addTwoInt.py
 ```
 - Etape 2: (Executez)
 ```sh
-./addTwoInt.py 
+python addTwoInt.py 'choix1' 'choix2'
 ```
