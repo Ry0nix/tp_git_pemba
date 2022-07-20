@@ -11,7 +11,7 @@ git clone 'lien du github'
 ```sh
 cd tp_git_pemba
 ```
-**Avec 'ls' verifier si les fichiers sont présents**
+**Avec 'ls' verifiez si les fichiers sont présents**
 
 # Comment faire pour exécuter les codes
 - Etape 1: (Donnez les droits au script)
